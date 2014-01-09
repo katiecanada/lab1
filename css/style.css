@@ -1,0 +1,56 @@
+p {
+	font-size: 14pt;
+	
+}
+
+#name, #page-title
+{
+text-align: center;
+}
+
+#bio, #projects
+{
+border-style: dotted;
+border-color: #66FFFF;
+width: auto;
+height: auto;
+overflow: auto;
+}
+
+#profpic
+{
+position:relative;
+float: right;
+padding-top: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+}
+
+body
+{
+background-color: #FA898B;
+}
+
+h1
+{
+font-family: "Noteworthy",Times,serif; font-size: 48pt;
+margin: 0px;
+}
+
+h2
+{
+font-size: 30pt;
+font-family: "Noteworthy",Times,serif;
+margin: 0px;
+margin-bottom: 10px;
+}
+
+h4{
+	margin: 3px;
+	font-size: 20px;
+	font-family: "Noteworthy",Times,serif;
+}
+
+a{
+	color: #66FFFF;
+}
